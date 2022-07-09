@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "62b6d5e12adeb0eb91c4a2e0"
+  },
+  "username": "HamzaMurtaza",
+  "phonenumber": "03335678123"
+},{
+  "_id": {
+    "$oid": "62b6e1c22adeb0eb91c4a2e1"
+  },
+  "username": "SyedUsamaAmir",
+  "phonenumber": "03334563324"
+},{
+  "_id": {
+    "$oid": "62b6e1c22adeb0eb91c4a2e2"
+  },
+  "username": "SafwaanShaikh",
+  "phonenumber": "033345111112"
+},{
+  "_id": {
+    "$oid": "62b6e1c22adeb0eb91c4a2e3"
+  },
+  "username": "TahaMurtaza",
+  "phonenumber": "03332221212"
+}]

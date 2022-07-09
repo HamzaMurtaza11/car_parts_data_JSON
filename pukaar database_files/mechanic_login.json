@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "62c880c5bd5adf4d462e5216"
+  },
+  "name": "Gohar Khan",
+  "phone_number": "03331199823",
+  "shop_name": "Bright Mechanic",
+  "shop_address": "Shop#123,ABCroad,Saddar,Karachi"
+}]
